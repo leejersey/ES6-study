@@ -1,0 +1,24 @@
+{
+  "name": "es6-study",
+  "version": "1.0.0",
+  "description": "ES6-study",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-preset-es2015": "^6.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leejersey/ES6-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leejersey/ES6-study/issues"
+  },
+  "homepage": "https://github.com/leejersey/ES6-study#readme"
+}
